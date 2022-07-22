@@ -1,0 +1,120 @@
+body{
+    font-family: "PostoniStandardRegular",Georgia,serif; 
+    font-size: 20px;
+}
+
+nav{
+    background-color: #2A2A2A;
+}
+
+.bg-header{
+    background-color: #2A2A2A;
+    padding: 10% 0 ;
+    height: 100%;
+    width : 100%;
+    
+}
+
+.bg-1{
+    background-color: #2A2A2A;
+    padding: 10% 0 1em;
+    color: #FFFFFF;
+}
+
+.bg-foot{
+    background-color: #2A2A2A;
+    color: #FFFFFF;
+    
+}
+.bg-cite{
+    background-color:  #EC670F;
+    padding: 10% 0 1em;
+    color: #2A2A2A;
+
+}
+.orange{
+    color: #EC670F;
+}
+
+.white{
+    color: #FFFFFF;
+}
+
+.big{
+    font-size: 2.7em;
+    color: #EC670F;
+}
+
+@media screen and (max-width: 900px) {
+    .big{
+        font-size: 2.0em;
+    }
+
+    .profile{
+        width: 150px;
+    }
+}
+
+.small{
+    font-size: 1.5em;
+}
+
+.very-small{
+    font-size: 1.0em;
+}
+
+h1{
+    font-size: 2.7em;
+    font-weight: 100 !important;
+    color: #FFFFFF;
+}
+
+p {
+    font-size: 2.0em;
+
+}
+
+
+
+.link:visited {
+    color: #EC670F;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: #EC670F;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.link:active {
+    color: #EC670F;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+
+
+
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #EC670F !important;
+    border-color: #EC670F;
+    font-size: 2.0em;
+}
+
+.RSS {
+    margin: 10px 0;
+    font-size: 0.9em;
+}
+  
+.RSS a {
+    font-size: 0.9em;
+    text-decoration:none;
+}
+
+.RSS:hover {
+    text-decoration:none;
+    font-size: 0.9em;
+}
