@@ -15,6 +15,12 @@ nav{
     
 }
 
+.bg-order{ 
+    padding: 10% 0 ;
+    height: 100%;
+    width : 100%;
+    
+}
 .bg-1{
     background-color: #2A2A2A;
     padding: 10% 0 1em;
@@ -38,6 +44,10 @@ nav{
 
 .white{
     color: #FFFFFF;
+}
+
+.black{
+    color: #000000;
 }
 
 .big{
